@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Optional extras (good practice)
+.DS_Store
+dist/
+build/
+logs/
+npm-debug.log
